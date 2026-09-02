@@ -1,0 +1,8 @@
+{
+  "name": "JOURNEY X",
+  "description": "Nền tảng học tập tương tác Journey X dành cho học sinh, bao gồm video tương tác, phiếu học tập, trò chơi và bài kiểm tra tùy chỉnh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
